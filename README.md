@@ -1,6 +1,7 @@
 # OCOP Website
 
-<img width="916" alt="image" src="https://github.com/thanhcuong123/B2110008/assets/162348621/89d90e5d-80c2-4d84-9bba-d4a0f9a8c623">
+(https://github.com/thanhcuong123/B2110008/assets/162348621/28b470c4-ad2f-460a-be26-11f68401babb)
+
 
 
 ## Giới thiệu
