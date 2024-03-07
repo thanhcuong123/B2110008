@@ -1,8 +1,5 @@
 # OCOP Website
 
-(https://github.com/thanhcuong123/B2110008/assets/162348621/28b470c4-ad2f-460a-be26-11f68401babb)
-
-
 
 ## Giới thiệu
 
